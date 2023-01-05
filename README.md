@@ -10,3 +10,6 @@ yay
 ## Deployment
 more
 ## How to Contribute
+
+##Copyright
+2023Git.Training
