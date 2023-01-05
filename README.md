@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This repository is for showing how Git and GitHub work. Woo
+This repository is for showing how Git and GitHub work. Woohoo! Yay
 
 ## Introduction
 
